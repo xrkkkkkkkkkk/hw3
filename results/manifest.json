@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "s01",
+    "condition": "whole",
+    "text": "我原本以为今天和平常一样，没想到我们真的成功了！",
+    "audio": "audio/s01_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 3.7848526077097504,
+    "spans": [],
+    "elapsed_seconds": 30.580578499999998
+  },
+  {
+    "id": "s01",
+    "condition": "baseline",
+    "text": "我原本以为今天和平常一样，没想到我们真的成功了！",
+    "audio": "audio/s01_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 3.795011337868481,
+    "spans": [
+      {
+        "text": "我原本以为今天和平常一样，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 46336,
+        "start_sample": 0,
+        "end_sample": 46336,
+        "start": 0.0,
+        "end": 2.10140589569161
+      },
+      {
+        "text": "没想到我们真的成功了！",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 36352,
+        "start_sample": 47328,
+        "end_sample": 83680,
+        "start": 2.1463945578231294,
+        "end": 3.795011337868481
+      }
+    ],
+    "elapsed_seconds": 0.8959064000000012
+  },
+  {
+    "id": "s01",
+    "condition": "emotion",
+    "text": "我原本以为今天和平常一样，没想到我们真的成功了！",
+    "audio": "audio/s01_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 3.63015873015873,
+    "spans": [
+      {
+        "text": "我原本以为今天和平常一样，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 46336,
+        "start_sample": 0,
+        "end_sample": 46336,
+        "start": 0.0,
+        "end": 2.10140589569161
+      },
+      {
+        "text": "没想到我们真的成功了！",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 36352,
+        "start_sample": 47328,
+        "end_sample": 80045,
+        "start": 2.1463945578231294,
+        "end": 3.63015873015873
+      }
+    ],
+    "elapsed_seconds": 0.6518368999999993
+  },
+  {
+    "id": "s01",
+    "condition": "duration",
+    "text": "我原本以为今天和平常一样，没想到我们真的成功了！",
+    "audio": "audio/s01_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 4.619319727891156,
+    "spans": [
+      {
+        "text": "我原本以为今天和平常一样，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 46336,
+        "start_sample": 0,
+        "end_sample": 46336,
+        "start": 0.0,
+        "end": 2.10140589569161
+      },
+      {
+        "text": "没想到我们真的成功了！",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.5,
+        "base_samples": 36352,
+        "start_sample": 47328,
+        "end_sample": 101856,
+        "start": 2.1463945578231294,
+        "end": 4.619319727891156
+      }
+    ],
+    "elapsed_seconds": 0.013299499999995135
+  },
+  {
+    "id": "s01",
+    "condition": "combined",
+    "text": "我原本以为今天和平常一样，没想到我们真的成功了！",
+    "audio": "audio/s01_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 4.372018140589569,
+    "spans": [
+      {
+        "text": "我原本以为今天和平常一样，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 46336,
+        "start_sample": 0,
+        "end_sample": 46336,
+        "start": 0.0,
+        "end": 2.10140589569161
+      },
+      {
+        "text": "没想到我们真的成功了！",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.5,
+        "base_samples": 36352,
+        "start_sample": 47328,
+        "end_sample": 96403,
+        "start": 2.1463945578231294,
+        "end": 4.372018140589569
+      }
+    ],
+    "elapsed_seconds": 0.2655347999999975
+  },
+  {
+    "id": "s02",
+    "condition": "whole",
+    "text": "我刚才还在安静地等待，现在终于轮到我们上场了！",
+    "audio": "audio/s02_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 3.7848526077097504,
+    "spans": [],
+    "elapsed_seconds": 0.9123062000000033
+  },
+  {
+    "id": "s02",
+    "condition": "baseline",
+    "text": "我刚才还在安静地等待，现在终于轮到我们上场了！",
+    "audio": "audio/s02_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 3.6789115646258503,
+    "spans": [
+      {
+        "text": "我刚才还在安静地等待，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 40192,
+        "start_sample": 0,
+        "end_sample": 40192,
+        "start": 0.0,
+        "end": 1.822766439909297
+      },
+      {
+        "text": "现在终于轮到我们上场了！",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 39936,
+        "start_sample": 41184,
+        "end_sample": 81120,
+        "start": 1.8677551020408163,
+        "end": 3.6789115646258503
+      }
+    ],
+    "elapsed_seconds": 0.875070700000002
+  },
+  {
+    "id": "s02",
+    "condition": "emotion",
+    "text": "我刚才还在安静地等待，现在终于轮到我们上场了！",
+    "audio": "audio/s02_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 3.497777777777778,
+    "spans": [
+      {
+        "text": "我刚才还在安静地等待，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 40192,
+        "start_sample": 0,
+        "end_sample": 40192,
+        "start": 0.0,
+        "end": 1.822766439909297
+      },
+      {
+        "text": "现在终于轮到我们上场了！",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 39936,
+        "start_sample": 41184,
+        "end_sample": 77126,
+        "start": 1.8677551020408163,
+        "end": 3.497777777777778
+      }
+    ],
+    "elapsed_seconds": 0.31306329999999605
+  },
+  {
+    "id": "s02",
+    "condition": "duration",
+    "text": "我刚才还在安静地等待，现在终于轮到我们上场了！",
+    "audio": "audio/s02_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 3.1355555555555554,
+    "spans": [
+      {
+        "text": "我刚才还在安静地等待，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 40192,
+        "start_sample": 0,
+        "end_sample": 40192,
+        "start": 0.0,
+        "end": 1.822766439909297
+      },
+      {
+        "text": "现在终于轮到我们上场了！",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 0.7,
+        "base_samples": 39936,
+        "start_sample": 41184,
+        "end_sample": 69139,
+        "start": 1.8677551020408163,
+        "end": 3.1355555555555554
+      }
+    ],
+    "elapsed_seconds": 0.010484599999998068
+  },
+  {
+    "id": "s02",
+    "condition": "combined",
+    "text": "我刚才还在安静地等待，现在终于轮到我们上场了！",
+    "audio": "audio/s02_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 3.008798185941043,
+    "spans": [
+      {
+        "text": "我刚才还在安静地等待，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 40192,
+        "start_sample": 0,
+        "end_sample": 40192,
+        "start": 0.0,
+        "end": 1.822766439909297
+      },
+      {
+        "text": "现在终于轮到我们上场了！",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 0.7,
+        "base_samples": 39936,
+        "start_sample": 41184,
+        "end_sample": 66344,
+        "start": 1.8677551020408163,
+        "end": 3.008798185941043
+      }
+    ],
+    "elapsed_seconds": 0.31112449999999825
+  },
+  {
+    "id": "s03",
+    "condition": "whole",
+    "text": "大家都在欢呼，但我突然想起了离开的朋友。",
+    "audio": "audio/s03_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 3.3436734693877552,
+    "spans": [],
+    "elapsed_seconds": 0.7717839000000026
+  },
+  {
+    "id": "s03",
+    "condition": "baseline",
+    "text": "大家都在欢呼，但我突然想起了离开的朋友。",
+    "audio": "audio/s03_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 3.3190022675736963,
+    "spans": [
+      {
+        "text": "大家都在欢呼，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 27136,
+        "start_sample": 0,
+        "end_sample": 27136,
+        "start": 0.0,
+        "end": 1.230657596371882
+      },
+      {
+        "text": "但我突然想起了离开的朋友。",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 45056,
+        "start_sample": 28128,
+        "end_sample": 73184,
+        "start": 1.2756462585034014,
+        "end": 3.3190022675736963
+      }
+    ],
+    "elapsed_seconds": 0.7693122000000017
+  },
+  {
+    "id": "s03",
+    "condition": "emotion",
+    "text": "大家都在欢呼，但我突然想起了离开的朋友。",
+    "audio": "audio/s03_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 3.502403628117914,
+    "spans": [
+      {
+        "text": "大家都在欢呼，",
+        "target": false,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 27136,
+        "start_sample": 0,
+        "end_sample": 24422,
+        "start": 0.0,
+        "end": 1.1075736961451248
+      },
+      {
+        "text": "但我突然想起了离开的朋友。",
+        "target": true,
+        "emotion": "sad",
+        "requested_factor": 1.0,
+        "base_samples": 45056,
+        "start_sample": 25414,
+        "end_sample": 77228,
+        "start": 1.152562358276644,
+        "end": 3.502403628117914
+      }
+    ],
+    "elapsed_seconds": 0.5756991000000014
+  },
+  {
+    "id": "s03",
+    "condition": "duration",
+    "text": "大家都在欢呼，但我突然想起了离开的朋友。",
+    "audio": "audio/s03_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 4.340680272108844,
+    "spans": [
+      {
+        "text": "大家都在欢呼，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 27136,
+        "start_sample": 0,
+        "end_sample": 27136,
+        "start": 0.0,
+        "end": 1.230657596371882
+      },
+      {
+        "text": "但我突然想起了离开的朋友。",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.5,
+        "base_samples": 45056,
+        "start_sample": 28128,
+        "end_sample": 95712,
+        "start": 1.2756462585034014,
+        "end": 4.340680272108844
+      }
+    ],
+    "elapsed_seconds": 0.01656950000000279
+  },
+  {
+    "id": "s03",
+    "condition": "combined",
+    "text": "大家都在欢呼，但我突然想起了离开的朋友。",
+    "audio": "audio/s03_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 4.677369614512472,
+    "spans": [
+      {
+        "text": "大家都在欢呼，",
+        "target": false,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 27136,
+        "start_sample": 0,
+        "end_sample": 24422,
+        "start": 0.0,
+        "end": 1.1075736961451248
+      },
+      {
+        "text": "但我突然想起了离开的朋友。",
+        "target": true,
+        "emotion": "sad",
+        "requested_factor": 1.5,
+        "base_samples": 45056,
+        "start_sample": 25414,
+        "end_sample": 103136,
+        "start": 1.152562358276644,
+        "end": 4.677369614512472
+      }
+    ],
+    "elapsed_seconds": 0.5930720000000065
+  },
+  {
+    "id": "s04",
+    "condition": "whole",
+    "text": "听到这个消息我很难过，不过我们还有重新开始的机会！",
+    "audio": "audio/s04_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 4.133151927437642,
+    "spans": [],
+    "elapsed_seconds": 0.9647040999999987
+  },
+  {
+    "id": "s04",
+    "condition": "baseline",
+    "text": "听到这个消息我很难过，不过我们还有重新开始的机会！",
+    "audio": "audio/s04_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 4.108480725623583,
+    "spans": [
+      {
+        "text": "听到这个消息我很难过，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 0,
+        "end_sample": 41472,
+        "start": 0.0,
+        "end": 1.8808163265306121
+      },
+      {
+        "text": "不过我们还有重新开始的机会！",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 48128,
+        "start_sample": 42464,
+        "end_sample": 90592,
+        "start": 1.9258049886621316,
+        "end": 4.108480725623583
+      }
+    ],
+    "elapsed_seconds": 0.9850007000000005
+  },
+  {
+    "id": "s04",
+    "condition": "emotion",
+    "text": "听到这个消息我很难过，不过我们还有重新开始的机会！",
+    "audio": "audio/s04_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 4.172335600907029,
+    "spans": [
+      {
+        "text": "听到这个消息我很难过，",
+        "target": false,
+        "emotion": "sad",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 0,
+        "end_sample": 47693,
+        "start": 0.0,
+        "end": 2.1629478458049887
+      },
+      {
+        "text": "不过我们还有重新开始的机会！",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 48128,
+        "start_sample": 48685,
+        "end_sample": 92000,
+        "start": 2.207936507936508,
+        "end": 4.172335600907029
+      }
+    ],
+    "elapsed_seconds": 0.733440899999998
+  },
+  {
+    "id": "s04",
+    "condition": "duration",
+    "text": "听到这个消息我很难过，不过我们还有重新开始的机会！",
+    "audio": "audio/s04_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 3.4536961451247166,
+    "spans": [
+      {
+        "text": "听到这个消息我很难过，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 0,
+        "end_sample": 41472,
+        "start": 0.0,
+        "end": 1.8808163265306121
+      },
+      {
+        "text": "不过我们还有重新开始的机会！",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 0.7,
+        "base_samples": 48128,
+        "start_sample": 42464,
+        "end_sample": 76154,
+        "start": 1.9258049886621316,
+        "end": 3.4536961451247166
+      }
+    ],
+    "elapsed_seconds": 0.01252720000000096
+  },
+  {
+    "id": "s04",
+    "condition": "combined",
+    "text": "听到这个消息我很难过，不过我们还有重新开始的机会！",
+    "audio": "audio/s04_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 3.5830385487528345,
+    "spans": [
+      {
+        "text": "听到这个消息我很难过，",
+        "target": false,
+        "emotion": "sad",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 0,
+        "end_sample": 47693,
+        "start": 0.0,
+        "end": 2.1629478458049887
+      },
+      {
+        "text": "不过我们还有重新开始的机会！",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 0.7,
+        "base_samples": 48128,
+        "start_sample": 48685,
+        "end_sample": 79006,
+        "start": 2.207936507936508,
+        "end": 3.5830385487528345
+      }
+    ],
+    "elapsed_seconds": 0.7412771000000049
+  },
+  {
+    "id": "s05",
+    "condition": "whole",
+    "text": "请你把安全第一这句话记在心里。",
+    "audio": "audio/s05_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 2.3219954648526078,
+    "spans": [],
+    "elapsed_seconds": 0.5736553999999998
+  },
+  {
+    "id": "s05",
+    "condition": "baseline",
+    "text": "请你把安全第一这句话记在心里。",
+    "audio": "audio/s05_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 2.7057596371882084,
+    "spans": [
+      {
+        "text": "请你把",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 10062,
+        "start_sample": 0,
+        "end_sample": 10062,
+        "start": 0.0,
+        "end": 0.4563265306122449
+      },
+      {
+        "text": "安全第一",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 17152,
+        "start_sample": 11054,
+        "end_sample": 28206,
+        "start": 0.5013151927437641,
+        "end": 1.2791836734693878
+      },
+      {
+        "text": "这句话记在心里。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 30464,
+        "start_sample": 29198,
+        "end_sample": 59662,
+        "start": 1.324172335600907,
+        "end": 2.7057596371882084
+      }
+    ],
+    "elapsed_seconds": 0.6650434000000018
+  },
+  {
+    "id": "s05",
+    "condition": "emotion",
+    "text": "请你把安全第一这句话记在心里。",
+    "audio": "audio/s05_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 2.627981859410431,
+    "spans": [
+      {
+        "text": "请你把",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 10062,
+        "start_sample": 0,
+        "end_sample": 10062,
+        "start": 0.0,
+        "end": 0.4563265306122449
+      },
+      {
+        "text": "安全第一",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 17152,
+        "start_sample": 11054,
+        "end_sample": 26491,
+        "start": 0.5013151927437641,
+        "end": 1.20140589569161
+      },
+      {
+        "text": "这句话记在心里。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 30464,
+        "start_sample": 27483,
+        "end_sample": 57947,
+        "start": 1.2463945578231292,
+        "end": 2.627981859410431
+      }
+    ],
+    "elapsed_seconds": 0.1414146000000045
+  },
+  {
+    "id": "s05",
+    "condition": "duration",
+    "text": "请你把安全第一这句话记在心里。",
+    "audio": "audio/s05_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 3.09469387755102,
+    "spans": [
+      {
+        "text": "请你把",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 10062,
+        "start_sample": 0,
+        "end_sample": 10062,
+        "start": 0.0,
+        "end": 0.4563265306122449
+      },
+      {
+        "text": "安全第一",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.5,
+        "base_samples": 17152,
+        "start_sample": 11054,
+        "end_sample": 36782,
+        "start": 0.5013151927437641,
+        "end": 1.6681179138321995
+      },
+      {
+        "text": "这句话记在心里。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 30464,
+        "start_sample": 37774,
+        "end_sample": 68238,
+        "start": 1.7131065759637187,
+        "end": 3.09469387755102
+      }
+    ],
+    "elapsed_seconds": 0.014632100000000037
+  },
+  {
+    "id": "s05",
+    "condition": "combined",
+    "text": "请你把安全第一这句话记在心里。",
+    "audio": "audio/s05_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 2.9780045351473925,
+    "spans": [
+      {
+        "text": "请你把",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 10062,
+        "start_sample": 0,
+        "end_sample": 10062,
+        "start": 0.0,
+        "end": 0.4563265306122449
+      },
+      {
+        "text": "安全第一",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.5,
+        "base_samples": 17152,
+        "start_sample": 11054,
+        "end_sample": 34209,
+        "start": 0.5013151927437641,
+        "end": 1.5514285714285714
+      },
+      {
+        "text": "这句话记在心里。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 30464,
+        "start_sample": 35201,
+        "end_sample": 65665,
+        "start": 1.5964172335600908,
+        "end": 2.9780045351473925
+      }
+    ],
+    "elapsed_seconds": 0.146018600000005
+  },
+  {
+    "id": "s06",
+    "condition": "whole",
+    "text": "我们需要马上出发才能赶上最后一班车。",
+    "audio": "audio/s06_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 2.948934240362812,
+    "spans": [],
+    "elapsed_seconds": 0.6829409999999996
+  },
+  {
+    "id": "s06",
+    "condition": "baseline",
+    "text": "我们需要马上出发才能赶上最后一班车。",
+    "audio": "audio/s06_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 3.3291609977324264,
+    "spans": [
+      {
+        "text": "我们需要",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 14080,
+        "start_sample": 0,
+        "end_sample": 14080,
+        "start": 0.0,
+        "end": 0.6385487528344671
+      },
+      {
+        "text": "马上出发",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 17408,
+        "start_sample": 15072,
+        "end_sample": 32480,
+        "start": 0.6835374149659864,
+        "end": 1.4730158730158731
+      },
+      {
+        "text": "才能赶上最后一班车。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 39936,
+        "start_sample": 33472,
+        "end_sample": 73408,
+        "start": 1.5180045351473923,
+        "end": 3.3291609977324264
+      }
+    ],
+    "elapsed_seconds": 0.7986507999999972
+  },
+  {
+    "id": "s06",
+    "condition": "emotion",
+    "text": "我们需要马上出发才能赶上最后一班车。",
+    "audio": "audio/s06_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 3.250204081632653,
+    "spans": [
+      {
+        "text": "我们需要",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 14080,
+        "start_sample": 0,
+        "end_sample": 14080,
+        "start": 0.0,
+        "end": 0.6385487528344671
+      },
+      {
+        "text": "马上出发",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 17408,
+        "start_sample": 15072,
+        "end_sample": 30739,
+        "start": 0.6835374149659864,
+        "end": 1.3940589569160997
+      },
+      {
+        "text": "才能赶上最后一班车。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 39936,
+        "start_sample": 31731,
+        "end_sample": 71667,
+        "start": 1.4390476190476191,
+        "end": 3.250204081632653
+      }
+    ],
+    "elapsed_seconds": 0.14378969999999924
+  },
+  {
+    "id": "s06",
+    "condition": "duration",
+    "text": "我们需要马上出发才能赶上最后一班车。",
+    "audio": "audio/s06_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 3.0923356009070293,
+    "spans": [
+      {
+        "text": "我们需要",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 14080,
+        "start_sample": 0,
+        "end_sample": 14080,
+        "start": 0.0,
+        "end": 0.6385487528344671
+      },
+      {
+        "text": "马上出发",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 0.7,
+        "base_samples": 17408,
+        "start_sample": 15072,
+        "end_sample": 27258,
+        "start": 0.6835374149659864,
+        "end": 1.2361904761904763
+      },
+      {
+        "text": "才能赶上最后一班车。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 39936,
+        "start_sample": 28250,
+        "end_sample": 68186,
+        "start": 1.2811791383219955,
+        "end": 3.0923356009070293
+      }
+    ],
+    "elapsed_seconds": 0.008046200000002557
+  },
+  {
+    "id": "s06",
+    "condition": "combined",
+    "text": "我们需要马上出发才能赶上最后一班车。",
+    "audio": "audio/s06_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 3.0370521541950115,
+    "spans": [
+      {
+        "text": "我们需要",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 14080,
+        "start_sample": 0,
+        "end_sample": 14080,
+        "start": 0.0,
+        "end": 0.6385487528344671
+      },
+      {
+        "text": "马上出发",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 0.7,
+        "base_samples": 17408,
+        "start_sample": 15072,
+        "end_sample": 26039,
+        "start": 0.6835374149659864,
+        "end": 1.180907029478458
+      },
+      {
+        "text": "才能赶上最后一班车。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 39936,
+        "start_sample": 27031,
+        "end_sample": 66967,
+        "start": 1.2258956916099772,
+        "end": 3.0370521541950115
+      }
+    ],
+    "elapsed_seconds": 0.1398917999999938
+  },
+  {
+    "id": "s07",
+    "condition": "whole",
+    "text": "我只想再说一次，谢谢你一直陪在我的身边。",
+    "audio": "audio/s07_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 3.5526530612244898,
+    "spans": [],
+    "elapsed_seconds": 0.8120439000000061
+  },
+  {
+    "id": "s07",
+    "condition": "baseline",
+    "text": "我只想再说一次，谢谢你一直陪在我的身边。",
+    "audio": "audio/s07_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 3.4917006802721087,
+    "spans": [
+      {
+        "text": "我只想再说一次，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 33024,
+        "start_sample": 0,
+        "end_sample": 33024,
+        "start": 0.0,
+        "end": 1.497687074829932
+      },
+      {
+        "text": "谢谢",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 6656,
+        "start_sample": 34016,
+        "end_sample": 40672,
+        "start": 1.5426757369614512,
+        "end": 1.8445351473922902
+      },
+      {
+        "text": "你一直陪在我的身边。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 35328,
+        "start_sample": 41664,
+        "end_sample": 76992,
+        "start": 1.8895238095238096,
+        "end": 3.4917006802721087
+      }
+    ],
+    "elapsed_seconds": 0.8730515000000025
+  },
+  {
+    "id": "s07",
+    "condition": "emotion",
+    "text": "我只想再说一次，谢谢你一直陪在我的身边。",
+    "audio": "audio/s07_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 3.5369614512471657,
+    "spans": [
+      {
+        "text": "我只想再说一次，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 33024,
+        "start_sample": 0,
+        "end_sample": 33024,
+        "start": 0.0,
+        "end": 1.497687074829932
+      },
+      {
+        "text": "谢谢",
+        "target": true,
+        "emotion": "sad",
+        "requested_factor": 1.0,
+        "base_samples": 6656,
+        "start_sample": 34016,
+        "end_sample": 41670,
+        "start": 1.5426757369614512,
+        "end": 1.889795918367347
+      },
+      {
+        "text": "你一直陪在我的身边。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 35328,
+        "start_sample": 42662,
+        "end_sample": 77990,
+        "start": 1.9347845804988661,
+        "end": 3.5369614512471657
+      }
+    ],
+    "elapsed_seconds": 0.05855280000000107
+  },
+  {
+    "id": "s07",
+    "condition": "duration",
+    "text": "我只想再说一次，谢谢你一直陪在我的身边。",
+    "audio": "audio/s07_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 3.642630385487528,
+    "spans": [
+      {
+        "text": "我只想再说一次，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 33024,
+        "start_sample": 0,
+        "end_sample": 33024,
+        "start": 0.0,
+        "end": 1.497687074829932
+      },
+      {
+        "text": "谢谢",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.5,
+        "base_samples": 6656,
+        "start_sample": 34016,
+        "end_sample": 44000,
+        "start": 1.5426757369614512,
+        "end": 1.9954648526077097
+      },
+      {
+        "text": "你一直陪在我的身边。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 35328,
+        "start_sample": 44992,
+        "end_sample": 80320,
+        "start": 2.040453514739229,
+        "end": 3.642630385487528
+      }
+    ],
+    "elapsed_seconds": 0.009257400000002747
+  },
+  {
+    "id": "s07",
+    "condition": "combined",
+    "text": "我只想再说一次，谢谢你一直陪在我的身边。",
+    "audio": "audio/s07_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 3.710566893424036,
+    "spans": [
+      {
+        "text": "我只想再说一次，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 33024,
+        "start_sample": 0,
+        "end_sample": 33024,
+        "start": 0.0,
+        "end": 1.497687074829932
+      },
+      {
+        "text": "谢谢",
+        "target": true,
+        "emotion": "sad",
+        "requested_factor": 1.5,
+        "base_samples": 6656,
+        "start_sample": 34016,
+        "end_sample": 45498,
+        "start": 1.5426757369614512,
+        "end": 2.063401360544218
+      },
+      {
+        "text": "你一直陪在我的身边。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 35328,
+        "start_sample": 46490,
+        "end_sample": 81818,
+        "start": 2.108390022675737,
+        "end": 3.710566893424036
+      }
+    ],
+    "elapsed_seconds": 0.06250179999999972
+  },
+  {
+    "id": "s08",
+    "condition": "whole",
+    "text": "听到结果以后，开心的感觉一下子涌上心头。",
+    "audio": "audio/s08_whole.wav",
+    "sample_rate": 22050,
+    "seconds": 3.132471655328798,
+    "spans": [],
+    "elapsed_seconds": 0.7936675999999991
+  },
+  {
+    "id": "s08",
+    "condition": "baseline",
+    "text": "听到结果以后，开心的感觉一下子涌上心头。",
+    "audio": "audio/s08_baseline.wav",
+    "sample_rate": 22050,
+    "seconds": 3.3988208616780047,
+    "spans": [
+      {
+        "text": "听到结果以后，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 24576,
+        "start_sample": 0,
+        "end_sample": 24576,
+        "start": 0.0,
+        "end": 1.1145578231292517
+      },
+      {
+        "text": "开心",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 6912,
+        "start_sample": 25568,
+        "end_sample": 32480,
+        "start": 1.1595464852607709,
+        "end": 1.4730158730158731
+      },
+      {
+        "text": "的感觉一下子涌上心头。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 33472,
+        "end_sample": 74944,
+        "start": 1.5180045351473923,
+        "end": 3.3988208616780047
+      }
+    ],
+    "elapsed_seconds": 0.8158146999999971
+  },
+  {
+    "id": "s08",
+    "condition": "emotion",
+    "text": "听到结果以后，开心的感觉一下子涌上心头。",
+    "audio": "audio/s08_emotion.wav",
+    "sample_rate": 22050,
+    "seconds": 3.367482993197279,
+    "spans": [
+      {
+        "text": "听到结果以后，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 24576,
+        "start_sample": 0,
+        "end_sample": 24576,
+        "start": 0.0,
+        "end": 1.1145578231292517
+      },
+      {
+        "text": "开心",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 1.0,
+        "base_samples": 6912,
+        "start_sample": 25568,
+        "end_sample": 31789,
+        "start": 1.1595464852607709,
+        "end": 1.4416780045351474
+      },
+      {
+        "text": "的感觉一下子涌上心头。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 32781,
+        "end_sample": 74253,
+        "start": 1.4866666666666666,
+        "end": 3.367482993197279
+      }
+    ],
+    "elapsed_seconds": 0.06351049999999958
+  },
+  {
+    "id": "s08",
+    "condition": "duration",
+    "text": "听到结果以后，开心的感觉一下子涌上心头。",
+    "audio": "audio/s08_duration.wav",
+    "sample_rate": 22050,
+    "seconds": 3.3047619047619046,
+    "spans": [
+      {
+        "text": "听到结果以后，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 24576,
+        "start_sample": 0,
+        "end_sample": 24576,
+        "start": 0.0,
+        "end": 1.1145578231292517
+      },
+      {
+        "text": "开心",
+        "target": true,
+        "emotion": "neutral",
+        "requested_factor": 0.7,
+        "base_samples": 6912,
+        "start_sample": 25568,
+        "end_sample": 30406,
+        "start": 1.1595464852607709,
+        "end": 1.3789569160997732
+      },
+      {
+        "text": "的感觉一下子涌上心头。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 31398,
+        "end_sample": 72870,
+        "start": 1.4239455782312924,
+        "end": 3.3047619047619046
+      }
+    ],
+    "elapsed_seconds": 0.005280400000003738
+  },
+  {
+    "id": "s08",
+    "condition": "combined",
+    "text": "听到结果以后，开心的感觉一下子涌上心头。",
+    "audio": "audio/s08_combined.wav",
+    "sample_rate": 22050,
+    "seconds": 3.282857142857143,
+    "spans": [
+      {
+        "text": "听到结果以后，",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 24576,
+        "start_sample": 0,
+        "end_sample": 24576,
+        "start": 0.0,
+        "end": 1.1145578231292517
+      },
+      {
+        "text": "开心",
+        "target": true,
+        "emotion": "excited",
+        "requested_factor": 0.7,
+        "base_samples": 6912,
+        "start_sample": 25568,
+        "end_sample": 29923,
+        "start": 1.1595464852607709,
+        "end": 1.3570521541950114
+      },
+      {
+        "text": "的感觉一下子涌上心头。",
+        "target": false,
+        "emotion": "neutral",
+        "requested_factor": 1.0,
+        "base_samples": 41472,
+        "start_sample": 30915,
+        "end_sample": 72387,
+        "start": 1.4020408163265305,
+        "end": 3.282857142857143
+      }
+    ],
+    "elapsed_seconds": 0.06051779999999951
+  }
+]

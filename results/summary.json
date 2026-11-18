@@ -1,0 +1,42 @@
+{
+  "whole": {
+    "n": 8,
+    "corpus_cer": 0.0,
+    "dnsmos_sig": 3.496585394669432,
+    "dnsmos_ovrl": 2.892478226453576,
+    "speaker_cosine": 1.0,
+    "clip_ratio": 0.0
+  },
+  "baseline": {
+    "n": 8,
+    "corpus_cer": 0.026490066225165563,
+    "dnsmos_sig": 3.447344177287947,
+    "dnsmos_ovrl": 2.87316819618207,
+    "speaker_cosine": 0.9745269533206506,
+    "clip_ratio": 0.0
+  },
+  "emotion": {
+    "n": 8,
+    "corpus_cer": 0.039735099337748346,
+    "dnsmos_sig": 3.018039022088172,
+    "dnsmos_ovrl": 2.271152337859973,
+    "speaker_cosine": 0.8986364658491606,
+    "clip_ratio": 0.0
+  },
+  "duration": {
+    "n": 8,
+    "corpus_cer": 0.033112582781456956,
+    "dnsmos_sig": 3.2190096772749635,
+    "dnsmos_ovrl": 2.3939563598591396,
+    "speaker_cosine": 0.9269496867973188,
+    "clip_ratio": 0.0
+  },
+  "combined": {
+    "n": 8,
+    "corpus_cer": 0.039735099337748346,
+    "dnsmos_sig": 2.915460316591341,
+    "dnsmos_ovrl": 2.264244236056386,
+    "speaker_cosine": 0.8844679387968543,
+    "clip_ratio": 0.0
+  }
+}

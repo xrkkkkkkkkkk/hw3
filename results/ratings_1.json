@@ -1,0 +1,197 @@
+{
+  "listener": "1",
+  "ratings": [
+    {
+      "trial": "T01",
+      "intelligibility": 5,
+      "naturalness": 5,
+      "similarity": 5
+    },
+    {
+      "trial": "T02",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T03",
+      "intelligibility": 5,
+      "naturalness": 2,
+      "similarity": 1
+    },
+    {
+      "trial": "T04",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T05",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T06",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T07",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T08",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T09",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T10",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T11",
+      "intelligibility": 5,
+      "naturalness": 5,
+      "similarity": 5
+    },
+    {
+      "trial": "T12",
+      "intelligibility": 5,
+      "naturalness": 5,
+      "similarity": 5
+    },
+    {
+      "trial": "T13",
+      "intelligibility": 5,
+      "naturalness": 4,
+      "similarity": 4
+    },
+    {
+      "trial": "T14",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T15",
+      "intelligibility": 5,
+      "naturalness": 4,
+      "similarity": 2
+    },
+    {
+      "trial": "T16",
+      "intelligibility": 5,
+      "naturalness": 5,
+      "similarity": 5
+    },
+    {
+      "trial": "T17",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T18",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T19",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T20",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T21",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T22",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T23",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T24",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T25",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T26",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T27",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T28",
+      "intelligibility": 4,
+      "naturalness": 4,
+      "similarity": 4
+    },
+    {
+      "trial": "T29",
+      "intelligibility": 3,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T30",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 4
+    },
+    {
+      "trial": "T31",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    },
+    {
+      "trial": "T32",
+      "intelligibility": 5,
+      "naturalness": 3,
+      "similarity": 3
+    }
+  ]
+}

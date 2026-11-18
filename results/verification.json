@@ -1,0 +1,8 @@
+{
+  "audio_files": 40,
+  "sample_rate": 22050,
+  "maximum_peak": 0.136749267578125,
+  "maximum_duration_ratio_error": 6.365740740743586e-05,
+  "identical_unmodified_segments": 52,
+  "passed": true
+}

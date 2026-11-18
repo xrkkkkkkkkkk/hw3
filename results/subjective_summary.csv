@@ -1,0 +1,13 @@
+﻿condition,metric,listeners,mean,listener_mean_std
+baseline,intelligibility,1,4.375,
+baseline,naturalness,1,4.125,
+baseline,similarity,1,4.5,
+emotion,intelligibility,1,4.5,
+emotion,naturalness,1,3.25,
+emotion,similarity,1,3.25,
+duration,intelligibility,1,4.5,
+duration,naturalness,1,3.0,
+duration,similarity,1,3.5,
+combined,intelligibility,1,4.5,
+combined,naturalness,1,2.875,
+combined,similarity,1,3.125,

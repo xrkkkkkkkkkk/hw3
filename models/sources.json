@@ -1,0 +1,26 @@
+[
+  {
+    "name": "tts",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-melo-tts-zh_en.tar.bz2",
+    "file": "vits-melo-tts-zh_en/model.onnx",
+    "sha256": "bf30582eb1b012250a35b1a4a80e7dfbcf8485e7bb9de0d95efbbeef0e4ad86d"
+  },
+  {
+    "name": "asr",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sherpa-onnx-zipformer-ctc-zh-int8-2025-07-03.tar.bz2",
+    "file": "sherpa-onnx-zipformer-ctc-zh-int8-2025-07-03/model.int8.onnx",
+    "sha256": "e291b9c468b651e2697caa09bc684326c3addc6a019e78eb537cfd1a8248ca07"
+  },
+  {
+    "name": "speaker",
+    "url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-recongition-models/wespeaker_zh_cnceleb_resnet34.onnx",
+    "file": "wespeaker_zh_cnceleb_resnet34.onnx",
+    "sha256": "f86cd6c509f331f0e20b07bd48d1b2eb7de54202643401c4e84695ac861a0e5a"
+  },
+  {
+    "name": "quality",
+    "url": "https://raw.githubusercontent.com/microsoft/DNS-Challenge/master/DNSMOS/DNSMOS/sig_bak_ovr.onnx",
+    "file": "sig_bak_ovr.onnx",
+    "sha256": "269fbebdb513aa23cddfbb593542ecc540284a91849ac50516870e1ac78f6edd"
+  }
+]

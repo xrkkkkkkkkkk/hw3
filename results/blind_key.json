@@ -1,0 +1,162 @@
+[
+  {
+    "trial": "T01",
+    "id": "s03",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T02",
+    "id": "s02",
+    "condition": "duration"
+  },
+  {
+    "trial": "T03",
+    "id": "s03",
+    "condition": "combined"
+  },
+  {
+    "trial": "T04",
+    "id": "s07",
+    "condition": "duration"
+  },
+  {
+    "trial": "T05",
+    "id": "s08",
+    "condition": "duration"
+  },
+  {
+    "trial": "T06",
+    "id": "s01",
+    "condition": "duration"
+  },
+  {
+    "trial": "T07",
+    "id": "s02",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T08",
+    "id": "s06",
+    "condition": "combined"
+  },
+  {
+    "trial": "T09",
+    "id": "s07",
+    "condition": "combined"
+  },
+  {
+    "trial": "T10",
+    "id": "s08",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T11",
+    "id": "s04",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T12",
+    "id": "s02",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T13",
+    "id": "s06",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T14",
+    "id": "s01",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T15",
+    "id": "s03",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T16",
+    "id": "s01",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T17",
+    "id": "s07",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T18",
+    "id": "s04",
+    "condition": "duration"
+  },
+  {
+    "trial": "T19",
+    "id": "s04",
+    "condition": "combined"
+  },
+  {
+    "trial": "T20",
+    "id": "s06",
+    "condition": "duration"
+  },
+  {
+    "trial": "T21",
+    "id": "s05",
+    "condition": "duration"
+  },
+  {
+    "trial": "T22",
+    "id": "s04",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T23",
+    "id": "s05",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T24",
+    "id": "s07",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T25",
+    "id": "s05",
+    "condition": "combined"
+  },
+  {
+    "trial": "T26",
+    "id": "s08",
+    "condition": "combined"
+  },
+  {
+    "trial": "T27",
+    "id": "s01",
+    "condition": "combined"
+  },
+  {
+    "trial": "T28",
+    "id": "s06",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T29",
+    "id": "s08",
+    "condition": "emotion"
+  },
+  {
+    "trial": "T30",
+    "id": "s05",
+    "condition": "baseline"
+  },
+  {
+    "trial": "T31",
+    "id": "s03",
+    "condition": "duration"
+  },
+  {
+    "trial": "T32",
+    "id": "s02",
+    "condition": "combined"
+  }
+]

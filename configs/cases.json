@@ -1,0 +1,10 @@
+[
+  {"id":"s01","duration_factor":1.5,"segments":[{"text":"我原本以为今天和平常一样，","emotion":"neutral"},{"text":"没想到我们真的成功了！","emotion":"excited","target":true}]},
+  {"id":"s02","duration_factor":0.7,"segments":[{"text":"我刚才还在安静地等待，","emotion":"neutral"},{"text":"现在终于轮到我们上场了！","emotion":"excited","target":true}]},
+  {"id":"s03","duration_factor":1.5,"segments":[{"text":"大家都在欢呼，","emotion":"excited"},{"text":"但我突然想起了离开的朋友。","emotion":"sad","target":true}]},
+  {"id":"s04","duration_factor":0.7,"segments":[{"text":"听到这个消息我很难过，","emotion":"sad"},{"text":"不过我们还有重新开始的机会！","emotion":"excited","target":true}]},
+  {"id":"s05","duration_factor":1.5,"segments":[{"text":"请你把","emotion":"neutral"},{"text":"安全第一","emotion":"excited","target":true},{"text":"这句话记在心里。","emotion":"neutral"}]},
+  {"id":"s06","duration_factor":0.7,"segments":[{"text":"我们需要","emotion":"neutral"},{"text":"马上出发","emotion":"excited","target":true},{"text":"才能赶上最后一班车。","emotion":"neutral"}]},
+  {"id":"s07","duration_factor":1.5,"segments":[{"text":"我只想再说一次，","emotion":"neutral"},{"text":"谢谢","emotion":"sad","target":true},{"text":"你一直陪在我的身边。","emotion":"neutral"}]},
+  {"id":"s08","duration_factor":0.7,"segments":[{"text":"听到结果以后，","emotion":"neutral"},{"text":"开心","emotion":"excited","target":true},{"text":"的感觉一下子涌上心头。","emotion":"neutral"}]}
+]
